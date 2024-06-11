@@ -3,9 +3,12 @@ An abbreviated template for CTI Reporting.
 
 <h2> Cyber Threat Intelligence Report Template </h2> 
 
-[Organization Name] <br />
 Cyber Threat Intelligence Report <br />
+
+[Organization Name] <br />
+
 Threat Actor: [Included if and only if pertinent, relevant, necessary, and relatable to the recipient(s)] <br />
+
 Date: [Insert Date] <br />
 
 <h3>1. Executive Summary</h3> <br />
